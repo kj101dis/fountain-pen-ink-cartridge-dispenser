@@ -8,7 +8,56 @@ I made this because I was constantly getting tired of digging through my drawer 
 
 
 
-[bom of the fountain pen dispenser - Sheet1.tsv](https://github.com/user-attachments/files/34205392/bom.of.the.fountain.pen.dispenser.-.Sheet1.tsv)
-name 	cost	link	notes
-spring	7	www.amazon.com/gp/product/B0BVTDP29W	the springs 
-cad	8	https://hackclub.slack.com/archives/C083P4FJM46/p1793401789210759	from the printing legion
+[table.html](https://github.com/user-attachments/files/34205558/table.html)
+
+<style>
+#tz-0uvg97 .tableizer-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: #52525b;
+  font-size: 12px;
+}
+#tz-0uvg97 .tableizer-table th {
+  padding: 12px 22px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 12px;
+  background-color: transparent;
+  color: #27272a;
+  border-bottom: 1px solid #d4d4d8;
+}
+#tz-0uvg97 .tableizer-table td {
+  padding: 12px 22px;
+  text-align: left;
+  color: #52525b;
+  border-bottom: 3px solid #e8e8e8;
+}
+#tz-0uvg97 .tableizer-table .tz-right { text-align: right; }
+</style>
+<div id="tz-0uvg97" class="tableizer-root">
+<table class="tableizer-table">
+  <thead>
+    <tr>
+      <th>name</th>
+      <th class="tz-right">cost</th>
+      <th>link</th>
+      <th>notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>spring</td>
+      <td class="tz-right">7</td>
+      <td>www.amazon.com/gp/product/B0BVTDP29W</td>
+      <td>the springs</td>
+    </tr>
+    <tr>
+      <td>cad</td>
+      <td class="tz-right">8</td>
+      <td>https://hackclub.slack.com/archives/C083P4FJM46/p1793401789210759</td>
+      <td>from the printing legion</td>
+    </tr>
+  </tbody>
+</table>
+</div>
